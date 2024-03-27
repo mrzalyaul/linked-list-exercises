@@ -6,8 +6,8 @@
  * Given 1 -> 2 -> 3 -> 4 -> 5, the middle node is 3.
  * Given 1 -> 2 -> 3 -> 4 -> 5 -> 6, the middle node is 4.
  *
- * @param {Node} head - The head of the linked list.
- * @returns {Node} The middle node of the list.
+ * @param {LinkedListNode} head - The head of the linked list.
+ * @returns {LinkedListNode} The middle node of the list.
  */
 function findMiddle(head) {
     // Implementation goes here

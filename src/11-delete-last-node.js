@@ -5,8 +5,8 @@
  * If the list contains only one node, the list becomes empty.
  * Example: Given 1 -> 2 -> 3, after removal, it becomes 1 -> 2. If the list contains only one node, it becomes empty.
  *
- * @param {Node} head - The head of the linked list.
- * @returns {Node} The head of the list after the last node has been removed.
+ * @param {LinkedListNode} head - The head of the linked list.
+ * @returns {LinkedListNode} The head of the list after the last node has been removed.
  */
 function removeFromEnd(head) {
     // Implementation goes here

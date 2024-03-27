@@ -6,7 +6,7 @@ test('findLength(1 -> 2 -> 3 -> 4 -> 5 -> null) => 5', () => {
     const result = findLength(head);
     expect(result).toBe(5);
 });
-test('findLength(1 -> 1) => 2', () => {
+test('findLength(1 -> null) => 2', () => {
     const head = createLinkedListFromArray([1]);
     head.next = head;
     const result = findLength(head);

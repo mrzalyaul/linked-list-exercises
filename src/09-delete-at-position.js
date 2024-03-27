@@ -4,9 +4,9 @@
  * Example: Given 1 -> 2 -> 3 -> 4 and position 2, it becomes 1 -> 2 -> 4
  * Example: Given 1 -> 2 -> 3 -> 4 and position 0, it becomes 2 -> 3 -> 4
  *
- * @param {Node} head - The head of the linked list.
+ * @param {LinkedListNode} head - The head of the linked list.
  * @param {number} position - The position of the node to delete.
- * @returns {Node} The head of the list, which may change if the first element is deleted.
+ * @returns {LinkedListNode} The head of the list, which may change if the first element is deleted.
  */
 function deleteAtPosition(head, position) {
     // Implementation goes here

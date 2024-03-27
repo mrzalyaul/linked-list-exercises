@@ -4,9 +4,9 @@
  * Example: Given 1 -> 2 -> 3 and you add 0, it becomes 0 -> 1 -> 2 -> 3
  * Example: Given null and you add 1, it becomes 1 -> null
  *
- * @param {Node} head - The head of the linked list.
+ * @param {LinkedListNode} head - The head of the linked list.
  * @param {*} value - The value to add to the list.
- * @returns {Node} The new head of the list.
+ * @returns {LinkedListNode} The new head of the list.
  */
 function addToStart(head, value) {
     // Implementation goes here

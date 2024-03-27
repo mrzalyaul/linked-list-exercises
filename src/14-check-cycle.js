@@ -6,7 +6,7 @@
  * Example: Given 1 -> 2 -> 3 -> 4 -> 2, it returns true because the last node points back to the second node.
  * Given 1 -> 2 -> 3 -> 4, it returns false because there is no cycle.
  *
- * @param {Node} head - The head of the linked list.
+ * @param {LinkedListNode} head - The head of the linked list.
  * @returns {boolean} True if the list has a cycle, otherwise false.
  */
 function checkCycle(head) {
