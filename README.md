@@ -15,12 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/mrzalyaul/linked-list.git
+git clone https://github.com/mrzalyaul/linked-list-exercises
 ```
 
 2. Navigate to the project directory
 ```bash
-cd linked-list
+cd linked-list-exercises
 ```
 
 3. Install the dependencies
@@ -56,4 +56,4 @@ For example, given `1 -> 2 -> 3` and you add `0`, it becomes `0 -> 1 -> 2 -> 3`.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mrzalyaul/linked-list/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License.
