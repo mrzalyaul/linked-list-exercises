@@ -50,9 +50,7 @@ npm run test:watchAll
 
 ## Solving the Exercises
 
-The main goal of this project is to solve the linked list exercises. Each exercise is a function that you need to implement. For example, the `addToStart` function adds a new element to the start of the linked list. This function creates a new node with the given value and inserts it at the beginning of the list.
-
-For example, given `1 -> 2 -> 3` and you add `0`, it becomes `0 -> 1 -> 2 -> 3`. Given `null` and you add `1`, it becomes `1 -> null`.
+The main goal of this project is to solve the linked list exercises. For each exercise, there is a specific file containing a function that needs to be developed to solve the given issue. Each function is accompanied by a comment describing its purpose, and you should implement the function accordingly. You can observe the changes after running `npm run jest:watchAll`.
 
 ## License
 
