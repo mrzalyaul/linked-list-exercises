@@ -1,0 +1,17 @@
+{
+  "name": "linked-list",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:watchAll": "jest --watchAll",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
